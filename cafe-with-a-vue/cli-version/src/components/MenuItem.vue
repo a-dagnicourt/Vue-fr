@@ -54,9 +54,9 @@ export default {
   width: 500px;
   justify-content: space-between;
   margin-bottom: 30px;
-}
 
-.menu-item__image {
-  max-width: 300px;
+  &__image {
+    max-width: 300px;
+  }
 }
 </style>
